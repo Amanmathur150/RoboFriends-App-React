@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Candy Shop Black Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Candy Shop Black Regular'), url('Candy Shop Black.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Candy Shop Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Candy Shop Regular'), url('Candy Shop.woff') format('woff');
+    }
+
+h1{
+    font-family: "Candy Shop Black Regular";
+    color: rgb(65, 240, 22);
+} 
